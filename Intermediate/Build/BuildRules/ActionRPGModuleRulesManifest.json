@@ -1,0 +1,9 @@
+{
+	"SourceFiles": [
+		"D:\\ActionRPG\\Source\\ActionRPG\\ActionRPG.Build.cs",
+		"D:\\ActionRPG\\Source\\ActionRPGLoadingScreen\\ActionRPGLoadingScreen.Build.cs",
+		"D:\\ActionRPG\\Source\\ActionRPG.Target.cs",
+		"D:\\ActionRPG\\Source\\ActionRPGEditor.Target.cs"
+	],
+	"EngineVersion": "4.24.3"
+}

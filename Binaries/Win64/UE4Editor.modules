@@ -1,0 +1,8 @@
+{
+	"BuildId": "10570792",
+	"Modules": 
+	{
+		"ActionRPG": "UE4Editor-ActionRPG.dll",
+		"ActionRPGLoadingScreen": "UE4Editor-ActionRPGLoadingScreen.dll"
+	}
+}

@@ -1,0 +1,10 @@
+D:\ActionRPG\Source\ActionRPG\Public\RPGGameModeBase.h
+D:\ActionRPG\Intermediate\Build\Win64\UE4Editor\Inc\ActionRPG\RPGGameModeBase.generated.h
+D:\ActionRPG\Source\ActionRPG\Public\RPGGameStateBase.h
+D:\UE_4.24\Engine\Source\Runtime\Engine\Classes\GameFramework/GameStateBase.h
+D:\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameStateBase.generated.h
+D:\ActionRPG\Intermediate\Build\Win64\UE4Editor\Inc\ActionRPG\RPGGameStateBase.generated.h
+D:\ActionRPG\Source\ActionRPG\Public\RPGPlayerControllerBase.h
+D:\ActionRPG\Source\ActionRPG\Public\RPGInventoryInterface.h
+D:\ActionRPG\Intermediate\Build\Win64\UE4Editor\Inc\ActionRPG\RPGInventoryInterface.generated.h
+D:\ActionRPG\Intermediate\Build\Win64\UE4Editor\Inc\ActionRPG\RPGPlayerControllerBase.generated.h
